@@ -47,7 +47,7 @@ public class SortedRotatedArray {
         int pivot = findPivot(nums);
 
         if(pivot == -1){  //if not find any pivot element//
-            pivot = nums.length-1;
+            //pivot = nums.length-1;
             return binarySearch(nums, target, 0,nums.length-1);
         }
         if(nums[pivot] == target){ //when pivot is the target//

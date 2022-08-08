@@ -1,74 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayPartitionLeetCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckSortedOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckSortedOrNotSecondMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CopyingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Count1sInBinaryArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteElementSecondMathods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EquilibriumPointEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EquilibriumPointNaive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FloorInASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrequenciesOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GoodPairNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IncreaseSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertAtIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeftRotateDplaceThirdMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeftRotatedDplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeftRotationDplaceSecondMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumOccurringElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumSubarrayKadaneAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumSubarrayNaiveSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumAdjacentDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveALLNegativeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveNegativeEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveZeroEfficientSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveZeroNaiveSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PivotElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrefixSumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RelativeSortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateEfficientMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateNaiveMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseCopying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseInGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RightRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchInsertAtPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShuffleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortedRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrongestNeighbour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubArrayWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubarrayWithSumZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubarrayWithZeroEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubarrayWithZerosAndOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumofAllElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TotalNoOfOccur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnionOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swapAlternate.java" afterDir="false" />
+    <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
+      <change afterPath="$PROJECT_DIR$/src/pivotElement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedRotatedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,25 +20,40 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ArrayRotation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BinarySearch.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/CheckSortedOrNot.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/CheckSortedOrNotSecondMethod.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/CopyingElements.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/DeleteElement.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/DeleteElementSecondMathods.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ElementInRange.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/FloorInASortedArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/GoodPairNumbers.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IncreaseSize.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/InsertAtIndex.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/LeftRotateDplaceThirdMethod.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/LeftRotation.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/LeftRotationDplaceSecondMethod.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/MaximumElement.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PivotElement.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ReverseCopying.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/RightRotation.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SearchElements.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SecondLargestElement.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SortedRotatedArray.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SumofAllElements.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TotalNoOfOccur.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/pivotElement2.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/swapAlternate.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -133,14 +84,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortedRotatedArray">
-    <configuration name="Count1sInBinaryArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Count1sInBinaryArray" />
-      <module name="ArrayPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pivotElement2">
     <configuration name="PivotElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PivotElement" />
       <module name="ArrayPractice" />
@@ -169,13 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pivotElement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pivotElement2" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pivotElement2" />
         <item itemvalue="Application.SortedRotatedArray" />
         <item itemvalue="Application.PivotElement" />
         <item itemvalue="Application.TotalNoOfOccur" />
         <item itemvalue="Application.SearchInsertAtPosition" />
-        <item itemvalue="Application.Count1sInBinaryArray" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +139,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654449013009</updated>
     </task>
+    <task id="LOCAL-00001" summary="java programs">
+      <created>1659961506241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659961506241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +165,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java program" />
+    <MESSAGE value="java programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="java programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
