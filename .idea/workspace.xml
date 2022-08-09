@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/pivotElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedRotatedArray2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SortedRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedRotatedArray.java" afterDir="false" />
     </list>
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Teuton-Roy &lt;popeyehk404@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -84,7 +89,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.pivotElement2">
+  <component name="RunManager" selected="Application.SortedRotatedArray">
     <configuration name="PivotElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PivotElement" />
       <module name="ArrayPractice" />
@@ -92,15 +97,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsertAtPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchInsertAtPosition" />
+    <configuration name="SortedRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedRotatedArray" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortedRotatedArray" />
+    <configuration name="SortedRotatedArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedRotatedArray2" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pivotElement2" />
         <item itemvalue="Application.SortedRotatedArray" />
+        <item itemvalue="Application.SortedRotatedArray2" />
+        <item itemvalue="Application.pivotElement2" />
         <item itemvalue="Application.PivotElement" />
         <item itemvalue="Application.TotalNoOfOccur" />
-        <item itemvalue="Application.SearchInsertAtPosition" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659961506241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java programs">
+      <created>1659968957608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659968957608</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java programs">
+      <created>1659969011583</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659969011583</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

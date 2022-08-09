@@ -1,28 +1,32 @@
-//Here Pivot element is the smallest element in this array//
-//Here one case not handel that is: If our array is not rotated then it is going to be out-of-bound//
+//Here pivot is the biggest element in this array//
+//Here one case handel, that is: If, our array is not rotated//
 
 import java.util.Scanner;
 
-public class SortedRotatedArray {
-    //find pivot//
+public class SortedRotatedArray2 {
+
     public static int findPivot(int[] arr){
         int start = 0;
-        int end = arr.length;
-        int mid = start + (end - start) / 2;
+        int end = arr.length-1;
+        int mid = start + (end - start)/2;
 
-        while(start < end){
-            if(arr[mid] >= arr[0]){
+        while(start <= end){
+            if(mid < end && arr[mid] > arr[mid+1]){
+                return mid;
+            }
+            if(mid>start && arr[mid] < arr[mid-1]){
+                return mid-1;
+            }
+            if(arr[mid] <= arr[start]){
+                end = mid - 1;
+            }
+            else {
                 start = mid + 1;
             }
-            else{
-                end = mid;
-            }
-            mid = start + (end - start) / 2;
+            mid = start + (end - start)/2;
         }
-        return end;
+        return -1;
     }
-
-    //Normal Binary Search//
     public static int binarySearch(int[] arr, int target, int start, int end){
         //Initialize//
 //        int start = 0;
