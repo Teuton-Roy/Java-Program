@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/SortedRotatedArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindPairWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindPairWithTripletSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortedRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedRotatedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,8 @@
     <setting file="file://$PROJECT_DIR$/src/DeleteElement.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/DeleteElementSecondMathods.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ElementInRange.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/FindPairWithGivenSum.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/FindPairWithTripletSum.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/FloorInASortedArray.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/GoodPairNumbers.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IncreaseSize.java" root0="FORCE_HIGHLIGHTING" />
@@ -56,6 +58,7 @@
     <setting file="file://$PROJECT_DIR$/src/SearchElements.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SecondLargestElement.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SortedRotatedArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SortedRotatedArray2.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SumofAllElements.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/TotalNoOfOccur.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/pivotElement2.java" root0="FORCE_HIGHLIGHTING" />
@@ -89,9 +92,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortedRotatedArray">
-    <configuration name="PivotElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PivotElement" />
+  <component name="RunManager" selected="Application.FindPairWithTripletSum">
+    <configuration name="FindPairWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPairWithGivenSum" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindPairWithTripletSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPairWithTripletSum" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,13 +121,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TotalNoOfOccur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TotalNoOfOccur" />
-      <module name="ArrayPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="pivotElement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pivotElement2" />
       <module name="ArrayPractice" />
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPairWithTripletSum" />
+        <item itemvalue="Application.FindPairWithGivenSum" />
         <item itemvalue="Application.SortedRotatedArray" />
         <item itemvalue="Application.SortedRotatedArray2" />
         <item itemvalue="Application.pivotElement2" />
-        <item itemvalue="Application.PivotElement" />
-        <item itemvalue="Application.TotalNoOfOccur" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659969011583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java programs">
+      <created>1660052160476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660052160476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
