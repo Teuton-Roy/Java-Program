@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class SortedRotatedArray2 {
 
+    //Find Pivot element//
     public static int findPivot(int[] arr){
         int start = 0;
         int end = arr.length-1;
@@ -27,6 +28,8 @@ public class SortedRotatedArray2 {
         }
         return -1;
     }
+    
+    //Normal Binary Search//
     public static int binarySearch(int[] arr, int target, int start, int end){
         //Initialize//
 //        int start = 0;
@@ -52,21 +55,26 @@ public class SortedRotatedArray2 {
     //Search the target Element//
     public static int Search(int[] nums, int target){
         int pivot = findPivot(nums);
-
-        if(pivot == -1){  //if not find any pivot element//
-            //pivot = nums.length-1;
+        
+        //if not find any pivot element//
+        if(pivot == -1){  
             return binarySearch(nums, target, 0,nums.length-1);
         }
-        if(nums[pivot] == target){ //when pivot is the target//
+        //when pivot is the target//
+        if(nums[pivot] == target){ 
             return pivot;
         }
-        if(target >= nums[0]){ // when target is greater and equal than 1st element//
+        
+        // when target is greater and equal than 1st element//
+        if(target >= nums[0]){ 
             return binarySearch(nums, target, 0, pivot-1);
         }
 
-        return binarySearch(nums, target, pivot, nums.length-1); // when target is less and equal than 1st element//
+        // when target is less and equal than 1st element//
+        return binarySearch(nums, target, pivot, nums.length-1); 
     }
 
+    //Main function//
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
