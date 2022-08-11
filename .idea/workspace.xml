@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/FindPairWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindPairWithTripletSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumDistanceBetweenAPairOfValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedRotatedArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedRotatedArray2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="2AAOde8Jcb5mum36MO5gl9yyWa0" />
@@ -92,7 +92,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindPairWithTripletSum">
+  <component name="RunManager" selected="Application.MaximumDistanceBetweenAPairOfValues">
     <configuration name="FindPairWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindPairWithGivenSum" />
       <module name="ArrayPractice" />
@@ -102,6 +102,13 @@
     </configuration>
     <configuration name="FindPairWithTripletSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindPairWithTripletSum" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumDistanceBetweenAPairOfValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumDistanceBetweenAPairOfValues" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,20 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pivotElement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pivotElement2" />
-      <module name="ArrayPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumDistanceBetweenAPairOfValues" />
+        <item itemvalue="Application.SortedRotatedArray" />
         <item itemvalue="Application.FindPairWithTripletSum" />
         <item itemvalue="Application.FindPairWithGivenSum" />
-        <item itemvalue="Application.SortedRotatedArray" />
         <item itemvalue="Application.SortedRotatedArray2" />
-        <item itemvalue="Application.pivotElement2" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660052160476</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java programs">
+      <created>1660100779051</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660100779051</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

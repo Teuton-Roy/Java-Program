@@ -32,8 +32,8 @@ public class SortedRotatedArray2 {
     //Normal Binary Search//
     public static int binarySearch(int[] arr, int target, int start, int end){
         //Initialize//
-//        int start = 0;
-//        int end = n-1;
+        //int start = 0;
+        //int end = n-1;
         int mid = start + (end-start) / 2;
 
         //Traverse//
