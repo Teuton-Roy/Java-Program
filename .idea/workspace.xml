@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/MaximumDistanceBetweenAPairOfValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckIfNAndItsDoubleExist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortedRotatedArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedRotatedArray2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -68,7 +67,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="2AAOde8Jcb5mum36MO5gl9yyWa0" />
@@ -88,11 +87,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programing JAVA/ArrayPractice&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Aleka Sir Assignment/NIT-Java_Alekha Sir/Assignment-3&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaximumDistanceBetweenAPairOfValues">
+  <component name="RunManager" selected="Application.CheckIfNAndItsDoubleExist">
+    <configuration name="CheckIfNAndItsDoubleExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckIfNAndItsDoubleExist" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindPairWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindPairWithGivenSum" />
       <module name="ArrayPractice" />
@@ -121,20 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedRotatedArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortedRotatedArray2" />
-      <module name="ArrayPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckIfNAndItsDoubleExist" />
         <item itemvalue="Application.MaximumDistanceBetweenAPairOfValues" />
         <item itemvalue="Application.SortedRotatedArray" />
         <item itemvalue="Application.FindPairWithTripletSum" />
         <item itemvalue="Application.FindPairWithGivenSum" />
-        <item itemvalue="Application.SortedRotatedArray2" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660100779051</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="java programs">
+      <created>1660216370442</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660216370442</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
