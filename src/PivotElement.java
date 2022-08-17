@@ -7,7 +7,7 @@ public class PivotElement {
         int mid = start + (end - start) / 2;
 
         while(start < end){
-            if(arr[mid] >= arr[0]){
+            if(arr[mid] >= arr[end]){
                 start = mid+1;
             }
             else{
@@ -15,7 +15,7 @@ public class PivotElement {
             }
             mid = start + (end - start) / 2;
         }
-        return end;
+        return arr[end];
     }
 
     public static void main(String[] args){
