@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/BookAllocationProblemOrAllocateMaximumPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MajorityOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleElementInASortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FrequenciesOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrequenciesOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BookAllocationProblemOrAllocateMaximumPages">
+  <component name="RunManager" selected="Application.SingleElementInASortedArray">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookAllocationProblemOrAllocateMaximumPages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BookAllocationProblemOrAllocateMaximumPages" />
       <module name="ArrayPractice" />
@@ -101,29 +109,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckIfNAndItsDoubleExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckIfNAndItsDoubleExist" />
+    <configuration name="FrequenciesOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FrequenciesOfNumbers" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MajorityOfElements" />
+    <configuration name="ReverseElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseElements" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfTwoSortedArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MedianOfTwoSortedArray1" />
-      <module name="ArrayPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PivotElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PivotElement" />
+    <configuration name="SingleElementInASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleElementInASortedArray" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleElementInASortedArray" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.FrequenciesOfNumbers" />
+        <item itemvalue="Application.ReverseElements" />
         <item itemvalue="Application.BookAllocationProblemOrAllocateMaximumPages" />
-        <item itemvalue="Application.MajorityOfElements" />
-        <item itemvalue="Application.PivotElement" />
-        <item itemvalue="Application.MedianOfTwoSortedArray1" />
-        <item itemvalue="Application.CheckIfNAndItsDoubleExist" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660743109843</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="java programs">
+      <created>1661019511449</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661019511449</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

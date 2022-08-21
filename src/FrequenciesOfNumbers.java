@@ -1,9 +1,12 @@
 import java.util.Scanner;
 
+
 public class FrequenciesOfNumbers {
     public static void Printfreq(int[] arr, int n)
     {
+//        int count = 1;
         int freq = 1;
+        int res = 1;
         int i = 1;
         while(i<n)
         {
@@ -12,11 +15,13 @@ public class FrequenciesOfNumbers {
                 freq++;
                 i++;
             }
-        System.out.println(arr[i-1]+" "+freq);
+
+        System.out.println(Math.max(res, freq));
             i++;
             freq = 1;
         }
     }
+
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);

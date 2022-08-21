@@ -6,6 +6,7 @@ public class ReverseElements {
         int high = n-1;
 
         while (low<high){
+
             int temp = A[low];
 
             A[low] = A[high];
