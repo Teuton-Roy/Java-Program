@@ -30,7 +30,7 @@ public class ThreeSumUsingHashSet {
                 else if (Twosum < -arr[i]) {
                     left++;
                 }
-                else if (Twosum > -arr[i]) {
+                else {
                     right--;
                 }
             }

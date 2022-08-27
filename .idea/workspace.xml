@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/ThreeSumUsingHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreeSumUsingHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreeSumUsingHashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreeSumUsingHashSet">
+  <component name="RunManager" selected="Application.BubbleSorting">
+    <configuration name="BubbleSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSorting" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeSum" />
       <module name="ArrayPractice" />
@@ -106,13 +114,6 @@
     </configuration>
     <configuration name="ThreeSumUsingHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeSumUsingHashSet" />
-      <module name="ArrayPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSumEfficientApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSumEfficientApproach" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSorting" />
         <item itemvalue="Application.ThreeSumUsingHashSet" />
         <item itemvalue="Application.TwoSumInputSortedTwoPointer" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.TwoSumSortedInput" />
-        <item itemvalue="Application.TwoSumEfficientApproach" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661530124040</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="java programs">
+      <created>1661588961587</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661588961587</updated>
+    </task>
+    <task id="LOCAL-00018" summary="java programs">
+      <created>1661589136376</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661589136376</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
