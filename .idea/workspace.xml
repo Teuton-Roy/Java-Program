@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSumInputSortedTwoPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSumSortedInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreeSumUsingHashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +96,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoSumInputSortedTwoPointer">
+  <component name="RunManager" selected="Application.ThreeSumUsingHashSet">
     <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreeSum" />
       <module name="ArrayPractice" />
@@ -106,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumBoutForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSumBoutForce" />
+    <configuration name="ThreeSumUsingHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeSumUsingHashSet" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSumUsingHashSet" />
         <item itemvalue="Application.TwoSumInputSortedTwoPointer" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.TwoSumSortedInput" />
         <item itemvalue="Application.TwoSumEfficientApproach" />
-        <item itemvalue="Application.TwoSumBoutForce" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661486933869</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="java programs">
+      <created>1661530124040</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661530124040</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
