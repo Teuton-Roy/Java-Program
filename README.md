@@ -25,4 +25,4 @@ Time Complexity: O(nlogn)
 Space Complexity: O(1)
 
 start initialize with 0'th element
-end initialize with arr.length - 2'th element. Beacuse, If our odd appear element is at (arr.length-1)'th position then, start go to (arr.length-1)'th element and loop break
+end initialize with arr.length - 2'th element. Because, If our odd appear element is at (arr.length-1)'th position then, start go to (arr.length-1)'th element and loop break
