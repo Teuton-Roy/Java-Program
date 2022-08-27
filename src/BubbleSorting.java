@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class BubbleSorting {
 
     public static void Bubble_Sort(int[] arr){
+
         boolean swapped;
 
         //  Loop runs till n-1 times//
