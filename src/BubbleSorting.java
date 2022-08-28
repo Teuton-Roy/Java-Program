@@ -23,6 +23,7 @@ public class BubbleSorting {
                     swapped = true;
                 }
             }
+            // when swapped == true; it's break//
             if(!swapped){
                 break;
             }
