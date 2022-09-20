@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cbe4aab-2f7b-4e1a-8dd8-e382c2f20daa" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,16 +101,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShellSort">
-    <configuration name="BubbleSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSorting" />
+  <component name="RunManager" selected="Application.opps">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+    <configuration name="OOPs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSumUsingHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeSumUsingHashSet" />
+    <configuration name="opps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opps" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.opps" />
+        <item itemvalue="Application.OOPs" />
         <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSorting" />
-        <item itemvalue="Application.ThreeSumUsingHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662184971944</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="java programs">
+      <created>1662549319524</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1662549319524</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
