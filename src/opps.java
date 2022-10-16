@@ -44,7 +44,6 @@ public class opps {
 
         s1.info(s1.name);
         s1.info(s1.Age);
-
         s1.info(s1.name, s1.Age);
 
 
