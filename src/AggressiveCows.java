@@ -1,5 +1,4 @@
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class AggressiveCows {
     public static int findAggressiveCow(int[] arr, int n, int K){

@@ -108,23 +108,17 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hh">
-    <configuration name="Linklist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Linklist" />
+  <component name="RunManager" selected="Application.AggressiveCows">
+    <configuration name="AggressiveCows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AggressiveCows" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenStationaryShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="penstationaryshop.PenStationaryShop" />
+    <configuration name="Linklist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linklist" />
       <module name="ArrayPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="penstationaryshop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AggressiveCows" />
         <item itemvalue="Application.hh" />
         <item itemvalue="Application.graph" />
         <item itemvalue="Application.Linklist" />
         <item itemvalue="Application.jdbc" />
-        <item itemvalue="Application.PenStationaryShop" />
       </list>
     </recent_temporary>
   </component>
