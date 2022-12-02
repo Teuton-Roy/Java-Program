@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class reversString {
 
     //reverse a string//
@@ -19,5 +21,7 @@ public class reversString {
     // Driver Code//
     public static void main(String[] args) {
         System.out.println(reverse("abc123".toCharArray())); //convert string to char array//
+
+        ArrayList <Integer> list = new ArrayList<>();
     }
 }
